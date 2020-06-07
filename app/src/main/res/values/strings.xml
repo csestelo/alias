@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">alias</string>
+    <string name="game_title">alias</string>
+    <string name="desc_game_logo">Game logo</string>
+    <string name="btn_new_game">New Game</string>
+    <string name="btn_continue_game">Continue</string>
+    <string name="btn_join_game">Join Game</string>
 </resources>
