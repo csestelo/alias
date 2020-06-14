@@ -1,4 +1,4 @@
-package com.example.alias
+package space.uniaoinstavel.alias
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

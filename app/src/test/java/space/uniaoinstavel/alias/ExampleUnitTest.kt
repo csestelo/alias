@@ -1,4 +1,4 @@
-package com.example.alias
+package space.uniaoinstavel.alias
 
 import org.junit.Test
 
