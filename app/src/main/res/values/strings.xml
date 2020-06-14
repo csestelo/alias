@@ -5,4 +5,6 @@
     <string name="btn_new_game">New Game</string>
     <string name="btn_continue_game">Continue</string>
     <string name="btn_join_game">Join Game</string>
+    <string name="btn_join_as_master">As Master</string>
+    <string name="btn_join_as_player">As Player</string>
 </resources>
